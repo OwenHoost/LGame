@@ -1,0 +1,2 @@
+C:\Users\Vincent Vuong\Documents\New Unity Project\Build\New Unity Project\obj\ARM\Debug\New Unity Project.csprojResolveAssemblyReference.cache
+C:\Users\Vincent Vuong\Documents\New Unity Project\Build\New Unity Project\obj\ARM\Debug\New Unity Project.csproj.CoreCompileInputs.cache
